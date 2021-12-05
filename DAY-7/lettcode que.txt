@@ -1,0 +1,4 @@
+power of 2
+reverse integer
+ complement of 10 base
+all done 
